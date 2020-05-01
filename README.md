@@ -4,4 +4,4 @@
 
 * User create flow
 
-* Swagger URL : http://localhost:8080/swagger-ui.html
+* Swagger URL with Docker: http://localhost:8081/swagger-ui.html
